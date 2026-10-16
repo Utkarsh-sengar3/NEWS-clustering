@@ -1,0 +1,18 @@
+{
+    "lowercase": true,
+    "remove_html_tags": true,
+    "remove_punctuation_and_special_characters": true,
+    "normalize_whitespace": true,
+    "remove_stopwords": true,
+    "tfidf_max_features": 30000,
+    "tfidf_min_df": 5,
+    "tfidf_max_df": 0.95,
+    "tfidf_ngram_range": [
+        1,
+        2
+    ],
+    "tfidf_sublinear_tf": true,
+    "svd_components": 100,
+    "kmeans_clusters": 12,
+    "random_state": 42
+}

@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+scikit-learn==1.7.2
+joblib
+numpy
+pydantic
+pypdf
+python-docx
+python-multipart
+beautifulsoup4
+requests
+python-dotenv
